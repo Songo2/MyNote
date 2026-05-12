@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Python  ",
+      "color": {
+        "a": 1,
+        "rgb": 11460690
+      }
+    },
+    {
+      "query": "tag:#线性代数  ",
+      "color": {
+        "a": 1,
+        "rgb": 1531563
+      }
+    },
+    {
+      "query": "tag:#C  ",
+      "color": {
+        "a": 1,
+        "rgb": 12849682
+      }
+    },
+    {
+      "query": "tag:#Cpp  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701199
+      }
+    },
+    {
+      "query": "tag:#CSharp  ",
+      "color": {
+        "a": 1,
+        "rgb": 8147680
+      }
+    },
+    {
+      "query": "tag:#编程语言  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.129757785467128,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 1.2414543899482589,
+  "close": true
+}

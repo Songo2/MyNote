@@ -1,0 +1,16 @@
+{
+  "execute-code:code-execute-open-manage-executors": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad1"
+    }
+  ]
+}
