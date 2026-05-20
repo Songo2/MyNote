@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Python  ",
+      "query": "path:计算机/代码语言/编程语言/Python  ",
       "color": {
         "a": 1,
         "rgb": 11460690
@@ -22,21 +22,21 @@
       }
     },
     {
-      "query": "tag:#C  ",
+      "query": "path:计算机/代码语言/编程语言/C族系/C语言",
       "color": {
         "a": 1,
         "rgb": 12849682
       }
     },
     {
-      "query": "tag:#Cpp  ",
+      "query": "path:计算机/代码语言/编程语言/C族系/C++  ",
       "color": {
         "a": 1,
         "rgb": 14701199
       }
     },
     {
-      "query": "tag:#CSharp  ",
+      "query": "path:计算机/代码语言/编程语言/C族系/CSharp  ",
       "color": {
         "a": 1,
         "rgb": 8147680
@@ -48,18 +48,25 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path:计算机/代码语言/编程语言/Rust  ",
+      "color": {
+        "a": 1,
+        "rgb": 11565831
+      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.129757785467128,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 1.2414543899482589,
+  "scale": 0.1945002269061545,
   "close": true
 }
