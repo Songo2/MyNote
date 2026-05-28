@@ -94,7 +94,7 @@ import my_module
 ### 禁忌
 禁止使用通配符导入(import * )
 ```Python
-# from math import **
+# from math import *
 import math
 ```
 

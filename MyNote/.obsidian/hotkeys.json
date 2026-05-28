@@ -12,5 +12,13 @@
       ],
       "key": "Numpad1"
     }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad2"
+    }
   ]
 }
