@@ -53,7 +53,7 @@
 # 逻辑
 
 \forall    $\forall$
-\exist    $\exists$
+\exists    $\exists$
 \nexists    $\nexists$
 \land    $\land$
 \lor    $\lor$
