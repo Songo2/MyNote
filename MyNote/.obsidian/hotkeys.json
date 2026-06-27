@@ -28,5 +28,13 @@
       ],
       "key": "Numpad3"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad4"
+    }
   ]
 }
