@@ -36,5 +36,38 @@
       ],
       "key": "Numpad4"
     }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad5"
+    }
+  ],
+  "editor:table-col-align-left": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:table-col-align-right": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "obsidian-outliner:unfold": [],
+  "editor:table-col-align-center": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
   ]
 }
