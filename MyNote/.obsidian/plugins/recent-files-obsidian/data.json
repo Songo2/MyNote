@@ -1,0 +1,132 @@
+{
+  "recentFiles": [
+    {
+      "basename": "4-电路定理",
+      "path": "电气/电路/4-电路定理.md"
+    },
+    {
+      "basename": "circuitikz的dvipsname颜色",
+      "path": "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/circuitikz的dvipsname颜色.md"
+    },
+    {
+      "basename": "草稿纸",
+      "path": "电气/电路/草稿纸.md"
+    },
+    {
+      "basename": "CircuiTikZ手册目录",
+      "path": "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/CircuiTikZ手册目录.md"
+    },
+    {
+      "basename": "tikz的简单学习",
+      "path": "计算机/代码语言/描述语法/LaTeX/TikZ/核心tikz/tikz的简单学习.md"
+    },
+    {
+      "basename": "circuitikz电路图",
+      "path": "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/circuitikz电路图.md"
+    },
+    {
+      "basename": "1-电路模型和电路定律",
+      "path": "电气/电路/1-电路模型和电路定律.md"
+    },
+    {
+      "basename": "2-电阻电路的等效变换",
+      "path": "电气/电路/2-电阻电路的等效变换.md"
+    },
+    {
+      "basename": "16-链式绘制",
+      "path": "_Templates/电路/16-链式绘制.md"
+    },
+    {
+      "basename": "3-电阻电路的一般分析",
+      "path": "电气/电路/3-电阻电路的一般分析.md"
+    },
+    {
+      "basename": "Circuitikz的svgnames颜色",
+      "path": "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/Circuitikz的svgnames颜色.md"
+    },
+    {
+      "basename": "参考结点或单线接地",
+      "path": "_Templates/电路/参考结点或单线接地.md"
+    },
+    {
+      "basename": "15-电压标注",
+      "path": "_Templates/电路/15-电压标注.md"
+    },
+    {
+      "basename": "13-电流标注",
+      "path": "_Templates/电路/13-电流标注.md"
+    },
+    {
+      "basename": "23-方程组数学块",
+      "path": "_Templates/数学/23-方程组数学块.md"
+    },
+    {
+      "basename": "22-矩阵",
+      "path": "_Templates/数学/22-矩阵.md"
+    },
+    {
+      "basename": "21-方程组",
+      "path": "_Templates/数学/21-方程组.md"
+    },
+    {
+      "basename": "20-居中数学块",
+      "path": "_Templates/数学/20-居中数学块.md"
+    },
+    {
+      "basename": "14-绘制节点",
+      "path": "_Templates/电路/14-绘制节点.md"
+    },
+    {
+      "basename": "椭圆形电流",
+      "path": "_Templates/电路/椭圆形电流.md"
+    },
+    {
+      "basename": "圆环形电流",
+      "path": "_Templates/电路/圆环形电流.md"
+    },
+    {
+      "basename": "大分式",
+      "path": "_Templates/数学/大分式.md"
+    },
+    {
+      "basename": "电路",
+      "path": "电气/电路/电路.md"
+    },
+    {
+      "basename": "自定义快捷键",
+      "path": "其他/自定义快捷键.md"
+    },
+    {
+      "basename": "缩略版格式",
+      "path": "_Templates/电路/缩略版格式.md"
+    },
+    {
+      "basename": "tikz手册目录",
+      "path": "计算机/代码语言/描述语法/LaTeX/TikZ/核心tikz/tikz手册目录.md"
+    },
+    {
+      "basename": "10-circuitikz格式",
+      "path": "_Templates/电路/10-circuitikz格式.md"
+    },
+    {
+      "basename": "chemfig目录",
+      "path": "计算机/代码语言/描述语法/LaTeX/TikZ/chemfig/chemfig目录.md"
+    },
+    {
+      "basename": "chemfig化学画图",
+      "path": "计算机/代码语言/描述语法/LaTeX/TikZ/chemfig/chemfig化学画图.md"
+    },
+    {
+      "basename": "12-电压电流设置",
+      "path": "_Templates/电路/12-电压电流设置.md"
+    },
+    {
+      "basename": "11-绘制边",
+      "path": "_Templates/电路/11-绘制边.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

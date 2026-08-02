@@ -5,7 +5,6 @@
   "obsidian-tasks-plugin",
   "quickadd",
   "obsidian-outliner",
-  "omnisearch",
   "nldates-obsidian",
   "obsidian-latex-suite",
   "obsidian-icon-folder",
@@ -13,5 +12,15 @@
   "drawio-obsidian",
   "mermaid-tools",
   "obsidian-minimal-settings",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-tikzjax",
+  "graphs",
+  "tags-overview",
+  "obsidian-latex",
+  "global-search-and-replace",
+  "settings-search",
+  "file-tree-alternative",
+  "editing-toolbar",
+  "floating-toc",
+  "recent-files-obsidian"
 ]

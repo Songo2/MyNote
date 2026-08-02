@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 11565831
       }
+    },
+    {
+      "query": "path:电气  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431485
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.0078125,
+  "scale": 1.5204648971557617,
   "close": true
 }
