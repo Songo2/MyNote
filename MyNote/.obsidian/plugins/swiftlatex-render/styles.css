@@ -1,0 +1,64 @@
+.block-language-latex {
+    justify-content: center;
+    align-items: center;
+    display: block;
+    width: 100%;
+}
+
+.block-language-latexsvg {
+    justify-content: center;
+    align-items: center;
+    display: block;
+    width: 100%;
+}
+
+.block-language-latexsvg svg {
+    width: 100%;
+    height: 100%;
+}
+
+.block-language-latexsvg-noinvert {
+    justify-content: center;
+    align-items: center;
+    display: block;
+    width: 100%;
+}
+
+.block-language-latexsvg-noinvert svg {
+    width: 100%;
+    height: 100%;
+}
+
+
+.block-language-latexsvg-fullinvert {
+    justify-content: center;
+    align-items: center;
+    display: block;
+    width: 100%;
+}
+
+.block-language-latexsvg-fullinvert svg {
+    width: 100%;
+    height: 100%;
+}
+
+.block-language-latexsvg-bwinvert {
+    justify-content: center;
+    align-items: center;
+    display: block;
+    width: 100%;
+}
+
+.block-language-latexsvg-bwinvert svg {
+    width: 100%;
+    height: 100%;
+}
+
+
+.block-latex-error {
+    justify-content: center;
+    display: block;
+    width: 100%;
+    background-color: white;
+    color: black;
+}

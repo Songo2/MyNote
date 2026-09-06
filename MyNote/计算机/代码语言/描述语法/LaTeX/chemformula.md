@@ -1,0 +1,12 @@
+
+chemformula,即chemistry formula,化学表达式
+
+# 介绍
+
+>可能每个使用LaTeX的化学家都知道Martin Hensel的优秀 mhchem 宏包,不过,把它和chemmacros宏包结合起来总有些困难,且mhchem的一些小问题一直困扰着我,但这些问题似乎不足以催生一个新宏包,甚至都不够让我向mhchem的作者提出功能请求,最终,创建一个新宏包的挑战和乐趣,以及对高度可自定义替代方案的渴望,促成了chemformula的诞生,chemformula的使用方式与mhchem非常相似,但对于化合物,化学计量因子和箭头的输入要求更严格,同时chemformula提供了许多自定义输出的可能性
+
+这个包是作者出于对mhchem使用上存在的问题,对自己的挑战和自定义的需求,从而创造的一个包
+___
+
+
+

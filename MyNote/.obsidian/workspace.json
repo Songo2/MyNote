@@ -4,76 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "3c5284a76aa9e440",
-        "type": "tabs",
+        "id": "d29594f5543c2a7d",
+        "type": "split",
         "children": [
           {
-            "id": "d3511538f1057077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电气/电路/4-电路定理.md",
-                "mode": "source",
-                "source": false
+            "id": "a243ac2142f3632a",
+            "type": "tabs",
+            "dimension": 19.940179461615156,
+            "children": [
+              {
+                "id": "b5fea1b8c4b564f3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dashboard.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "dashboard"
+                }
               },
-              "icon": "lucide-file",
-              "title": "4-电路定理"
-            }
+              {
+                "id": "2f616ee140f76238",
+                "type": "leaf",
+                "state": {
+                  "type": "apex-dashboard-view",
+                  "state": {},
+                  "icon": "home",
+                  "title": "工作台"
+                }
+              },
+              {
+                "id": "201880fc3ea9217e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "关系图谱"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "3ea77f1cf746153d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/circuitikz电路图.md",
-                "mode": "source",
-                "source": false
+            "id": "3c5284a76aa9e440",
+            "type": "tabs",
+            "dimension": 80.05982053838484,
+            "children": [
+              {
+                "id": "e1624be126499f07",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "电气/电路/草稿纸.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "草稿纸"
+                }
               },
-              "icon": "lucide-file",
-              "title": "circuitikz电路图"
-            }
-          },
-          {
-            "id": "b5fea1b8c4b564f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/circuitikz的dvipsname颜色.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "b267944697da321b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "数学/概率论/2-随机变量及其分布.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2-随机变量及其分布"
+                }
               },
-              "icon": "lucide-file",
-              "title": "circuitikz的dvipsname颜色"
-            }
-          },
-          {
-            "id": "1196e3e4bb85aa4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/CircuiTikZ手册目录.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CircuiTikZ手册目录"
-            }
-          },
-          {
-            "id": "201880fc3ea9217e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
+              {
+                "id": "f24fea57b4421732",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "计算机/代码语言/描述语法/LaTeX/MathJax数学公式符号.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MathJax数学公式符号"
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +112,7 @@
       {
         "id": "e9285f5b3575badf",
         "type": "tabs",
-        "dimension": 71.13997113997114,
+        "dimension": 71.39830508474576,
         "children": [
           {
             "id": "8574a3b1098a79c9",
@@ -150,12 +177,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "c3353ec25932d33b",
         "type": "tabs",
-        "dimension": 28.860028860028862,
+        "dimension": 28.60169491525424,
         "children": [
           {
             "id": "164e95356dd090dd",
@@ -180,7 +207,7 @@
       {
         "id": "c5275b45e108ea39",
         "type": "tabs",
-        "dimension": 72.75204359673025,
+        "dimension": 47.14828897338403,
         "children": [
           {
             "id": "d52ef8108d0cedab",
@@ -188,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电气/电路/4-电路定理.md",
+                "file": "化学/无机/1-化学基础知识.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -250,7 +277,7 @@
       {
         "id": "fd6ac7720bb3a7c9",
         "type": "tabs",
-        "dimension": 27.247956403269757,
+        "dimension": 52.851711026615966,
         "children": [
           {
             "id": "79782b9709ec164a",
@@ -276,7 +303,8 @@
               "title": "Mermaid Toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -296,47 +324,51 @@
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "tags-overview:Tags overview": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "apex-dashboard:打开工作台": false
     }
   },
-  "active": "d3511538f1057077",
+  "active": "2f616ee140f76238",
   "lastOpenFiles": [
-    "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/circuitikz的dvipsname颜色.md",
-    "电气/电路/4-电路定理.md",
+    "数学/概率论/2-随机变量及其分布.md",
+    "数学/概率论/1-概率论基本概念.md",
     "电气/电路/草稿纸.md",
-    "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/CircuiTikZ手册目录.md",
-    "计算机/代码语言/描述语法/LaTeX/TikZ/核心tikz/tikz的简单学习.md",
-    "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/circuitikz电路图.md",
-    "电气/电路/1-电路模型和电路定律.md",
-    "电气/电路/2-电阻电路的等效变换.md",
-    "_Templates/电路/16-链式绘制.md",
     "电气/电路/3-电阻电路的一般分析.md",
-    "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/Circuitikz的svgnames颜色.md",
-    "_Templates/电路/参考结点或单线接地.md",
-    "_Templates/电路/15-电压标注.md",
-    "_Templates/电路/13-电流标注.md",
-    "_Templates/数学/23-方程组数学块.md",
-    "_Templates/数学/22-矩阵.md",
-    "_Templates/数学/21-方程组.md",
-    "_Templates/数学/20-居中数学块.md",
-    "_Templates/电路/14-绘制节点.md",
-    "_Templates/电路/正负节点.md",
-    "_Templates/电路/椭圆形电流.md",
-    "_Templates/电路/圆环形电流.md",
-    "_Templates/数学/大分式.md",
-    "电气/电路/电路.md",
-    "其他/自定义快捷键.md",
-    "_Templates/电路/缩略版格式.md",
-    "计算机/代码语言/描述语法/LaTeX/TikZ/核心tikz",
-    "计算机/代码语言/描述语法/LaTeX/TikZ/chemfig",
-    "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz",
-    "计算机/代码语言/描述语法/LaTeX/TikZ",
-    "计算机/代码语言/描述语法/LaTeX",
-    "preamble.sty",
-    "_Templates/电路",
-    "_Templates/数学",
-    "Untitled.circuit-sketcher",
-    "Untitled 1.circuit-sketcher",
+    "电气/电路/6-储能元件.md",
+    "dashboard.md",
+    "数学/概率论/概率论与数理统计.md",
+    "计算机/代码语言/描述语法/LaTeX/MathJax数学公式符号.md",
+    "计算机/代码语言/描述语法/Mermaid/韦恩图代码.md",
+    "计算机/代码语言/描述语法/Mermaid/流程图代码.md",
+    "计算机/代码语言/描述语法/Mermaid/时序图代码.md",
+    "化学/无机/1-化学基础知识.md",
+    "机器学习/线性回归模型.md",
+    "计算机/体系知识/数据结构/1-基本概念.md",
+    "电气/电路/10-耦合电感电路.md",
+    "计算机/代码语言/描述语法/LaTeX/mhchem.md",
+    "计算机/代码语言/描述语法/LaTeX/chemformula.md",
+    "计算机/代码语言/描述语法/LaTeX/chemarr.md",
+    "计算机/代码语言/描述语法/未命名.md",
+    "物理/大学物理/热学/统计物理学/3-麦克斯韦速率分布律.md",
+    "物理/大学物理/热学/统计物理学/2-理想气体的压强,温度和内能.md",
+    "物理/大学物理/热学/统计物理学/1-基本概念.md",
+    "物理/大学物理/热学/统计物理学/5-气体输运过程.md",
+    "物理/大学物理/热学/统计物理学/4-玻耳兹曼分布律.md",
+    "计算机/代码语言/描述语法/LaTeX/TikZ/circuitikz/circuitikz电路图.md",
+    "化学/无机/未命名",
+    "机器学习/什么是机器学习.md",
+    "机器学习",
+    "数学/离散数学",
+    "电气/数电",
+    "电气/模电",
+    "物理/传热学",
+    "物理/工程流体力学",
+    "数学/概率论",
+    "化学/无机",
+    "化学/有机",
+    "Pasted image 20260804220956.png",
+    "Pasted image 20260804221611.png",
+    "Pasted image 20260804222403.png",
     "43c3e5e222145f132eb5e3b2b73a16e4.jpeg",
     "物理/大学物理/热学/热力学基础/Untitled Diagram.svg",
     "Untitled Diagram.svg",

@@ -1,7 +1,7 @@
 ```tikz
 \usepackage{circuitikz}
 \begin{document}
-\begin{circuitikz}[american]
+\begin{circuitikz}[american,scale=2]
 \ctikzset{resistor=european}
 	
 	%node

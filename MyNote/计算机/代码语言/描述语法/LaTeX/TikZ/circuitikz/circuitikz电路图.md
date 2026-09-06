@@ -1289,9 +1289,188 @@ ___
 ```
 
 ___
-### 箭头
+### 开关
 
-在边的绘制里面有箭头这种元素
+在边的绘制里面有开关这种元素
+
+#### 机械开关
+
+- 按钮开关 spst
+
+默认是关闭状态
+
+```
+\draw (0,0) to[spst] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[spst] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+我们也可以指定它的开闭状态(n/o)
+
+关闭状态(closing)
+```
+\draw (0,0) to[cspst] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[cspst] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+
+打开状态(opening)
+```
+\draw (0,0) to[ospst] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[ospst] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+___
+- 闸刀开关 n?s
+
+闸刀开关必须指定它的状态
+
+关闭状态(closed)
+```
+\draw (0,0) to[ncs] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[ncs] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+打开状态(opened)
+```
+\draw (0,0) to[nos] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[nos] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+___
+- 按键开关  n?pb
+
+ncpb
+```
+\draw (0,0) to[ncpb] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[ncpb] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+nopb
+```
+\draw (0,0) to[nopb] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[nopb] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+___
+#### 简约开关
+
+- 简约按钮 c?gsw
+
+ccgsw
+```
+\draw (0,0) to[ccgsw] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[ccgsw] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+cogsw
+```
+\draw (0,0) to[cogsw] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[cogsw] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+___
+- 简约闸刀 c?sw
+
+ccsw
+```
+\draw (0,0) to[ccsw] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[ccsw] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
+cosw
+```
+\draw (0,0) to[cosw] (2,0);
+```
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+	\draw (0,0) to[cosw] (2,0);
+\end{circuitikz}
+\end{document}
+```
+
 
 
 
